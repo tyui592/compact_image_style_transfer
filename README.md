@@ -21,6 +21,7 @@ scripts.sh
 
 ### $l_0$-norm per image
 * Channel response (white: nonzero response, black: zero response) of encoded feature map per image.
+
 | baseline | w/ uncorrelation loss | w/ channel & xor loss |
 | --- | --- | --- |
 | ![img1](./imgs/for_readme/l0_norm_baseline.png) | ![img2](./imgs/for_readme/l0_norm_with_uncorrelation.png) |![img3](./imgs/for_readme/l0_norm_with_ch_xor.png) |
